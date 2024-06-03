@@ -3,7 +3,7 @@ Assignment_Fetching_Dog_Data_with_TanStack_Query
 
 # Dog API App
 
-This project is a React application that fetches data from the Dog API using TanStack Query and displays information about dog breeds, random dog facts, and different dog groups.
+A React application that fetches data from the Dog API using TanStack Query and displays information about dog breeds, random dog facts, and different dog groups.
 
 ## Features
 
@@ -14,3 +14,6 @@ This project is a React application that fetches data from the Dog API using Tan
 ## How to Run
 
 1. Clone this repository
+2. cd dog-api-app
+3. npm install
+4. npm start
